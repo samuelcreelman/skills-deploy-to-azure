@@ -11,7 +11,7 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: samuelcreelman-azure-ttt
   AZURE_WEBAPP_NAME: samuelcreelman-ttt-app
-  ###############################################
+  #########
 
 jobs:
   build:
